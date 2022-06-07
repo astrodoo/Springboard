@@ -5,3 +5,4 @@ Templates/*
 **/.ipynb_checkpoints
 Case_Study/Unit3*
 **/~*
+**/.env
