@@ -130,7 +130,7 @@ order by Cost desc;
 Export the country club data from PHPMyAdmin, and connect to a local SQLite instance from Jupyter notebook 
  
 For this part, I created "Case_Study_country_club.ipynb" in the same folder.
- */
+*/
 
 /*
 QUESTIONS:

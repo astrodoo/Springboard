@@ -1,4 +1,6 @@
-# Instructions
+# Case Study Unit 8 for SQL tasks
 
-- `sqlite_db_pythonsqlite.db` - This is the database file you are looking to use python to write SQL queries against.
-- `SQLTask Tier 2.sql` - This is a text file with the list of questions we are looking to answer via SQL queries on `sqlite_db_pythonsqlite.db`. 
+- Part 1: SQL tasks with PHPMyAdmin (https://sql.springboard.com/ Username: student_2 Password: learn_sql@springboard)
+Answers were written in `SQLTasks Tier 2.sql`
+- Part 2: sqlite in python tasks using the database `sqlite_db_pythonsqlite.db`
+Answers were written in `Case_Study_country_club.ipynb`
