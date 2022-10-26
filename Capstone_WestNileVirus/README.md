@@ -5,7 +5,7 @@
 ## Data is obtained from Kaggle competition: 
 [West Nile Virus Competition](https://www.kaggle.com/competitions/predict-west-nile-virus/overview)
 
-## Competition Description:
+## Project Description:
 
 West Nile virus is most commonly spread to humans through infected mosquitos. Around 20% of people who become infected with the virus develop symptoms ranging from a persistent fever, to serious neurological illnesses that can result in death.
 
@@ -15,4 +15,4 @@ Every week from late spring through the fall, mosquitos in traps across the city
 
 Given weather, location, testing, and spraying data, this competition asks you to predict when and where different species of mosquitos will test positive for West Nile virus. A more accurate method of predicting outbreaks of West Nile virus in mosquitos will help the City of Chicago and CPHD more efficiently and effectively allocate resources towards preventing transmission of this potentially deadly virus.
 
-Submissions are evaluated on area under the ROC curve between the predicted probability that West Nile Virus is present and the observed outcomes.
+Data analysis is stored at jupyter notebooks in notebook subfolder. 
