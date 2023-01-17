@@ -42,7 +42,7 @@ zero value before it is created, which is shown as the red line.
 
 The dataset consists of 145k Wiki pages with different languages. As seen in Figure 2, the number ofarticles written in English is 24k, which is the largest among other languages. It is followed by Japanese,Germany, and French wiki pages. Interestingly, the number of the Spanish wiki page is smallest althoughSpanish is arguably ranked as the fourth most spoken language in the world, behind only English, Hindi,and Mandarin Chinese. Wikimedia and Mediawiki are miscellaneous pages, which may contain supplementary materials. Since they have no language information in the title, they are classified as theircategorical title.
 
-<p align="center" text-align="center;">
+<p style="align: center; text-align: center;">
    <img src="output/figures/n_articles_language.png" width=70%>
    <figcaption align="center"> <i> Figure 2. Number of articles per language.</i> </figcaption>
 </p>
