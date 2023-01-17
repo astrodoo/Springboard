@@ -45,7 +45,7 @@ The dataset consists of 145k Wiki pages with different languages. As seen in Fig
 <!-- <p style="align: center; text-align: center;"> -->
 <div align="center">
    <img src="output/figures/n_articles_language.png" width=70%>
-   <figcaption align="center"> <i> Figure 2. Number of articles per language.</i> </figcaption>
+   <figcaption> <i> Figure 2. Number of articles per language.</i> </figcaption>
 </div>
 
 In the left panel of Figure 3, we can infer the total number of agents for the wiki pages, which non-spideragents are dominant over spider agents. This is not surprising as spider agent, known as web [crawler](https://en.wikipedia.org/wiki/Web_crawler), hasa limited purpose for web indexing. In the right panel of Figure 3, we can see that the number of mobileweb-accessible wiki pages is slightly larger than that of desktop-accessible pages, although the differenceis not noticeable. These days, mobile tools are well-developed, and people live in a world where they cansearch for the information that they need in any place by simply turning on a phone or tablet. However, forthis Wikipedia dataset, the desktop seems to be still equally important as an accessing tool.
