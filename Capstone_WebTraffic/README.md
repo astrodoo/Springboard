@@ -31,3 +31,8 @@ the page has the valid counts of visits only after the page is created. For the 
 linear interpolation to the neighbor data, and for the latter case, we simply fill in the zero value. In Figure
 1, the *52_Hz_I_Love_You_zh.wikipedia.org_all-access_spider* page is created in 2016 April, so we fill
 zero value before it is created, which is shown as the red line.
+
+<p align="center">
+<img src="output/figures/imputed_data.png" width=70% align="center">
+<figcaption align="center"> <i> Figure 1. Imputed Data for '52_Hz_I_Love_You_zh.wikipedia.org_all-access_spider' Wikipedia page. The blue line representsthe normal data, and the red line represents the imputed data.</i> </figcaption>
+</p>
