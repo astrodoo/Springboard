@@ -42,11 +42,11 @@ zero value before it is created, which is shown as the red line.
 
 The dataset consists of 145k Wiki pages with different languages. As seen in Figure 2, the number ofarticles written in English is 24k, which is the largest among other languages. It is followed by Japanese,Germany, and French wiki pages. Interestingly, the number of the Spanish wiki page is smallest althoughSpanish is arguably ranked as the fourth most spoken language in the world, behind only English, Hindi,and Mandarin Chinese. Wikimedia and Mediawiki are miscellaneous pages, which may contain supplementary materials. Since they have no language information in the title, they are classified as theircategorical title.
 
-<!-- <p style="align: center; text-align: center;"> -->
-<div align="center">
+<p align="center" width=100%>
    <img src="output/figures/n_articles_language.png" width=70%>
-   <figcaption> <i> Figure 2. Number of articles per language.</i> </figcaption>
-</div>
+   <!-- <figcaption> <i> Figure 2. Number of articles per language.</i> </figcaption> -->
+   <p style="text-align: center;"><i> Figure 2. Number of articles per language.</i></p>
+</p>
 
 In the left panel of Figure 3, we can infer the total number of agents for the wiki pages, which non-spideragents are dominant over spider agents. This is not surprising as spider agent, known as web [crawler](https://en.wikipedia.org/wiki/Web_crawler), hasa limited purpose for web indexing. In the right panel of Figure 3, we can see that the number of mobileweb-accessible wiki pages is slightly larger than that of desktop-accessible pages, although the differenceis not noticeable. These days, mobile tools are well-developed, and people live in a world where they cansearch for the information that they need in any place by simply turning on a phone or tablet. However, forthis Wikipedia dataset, the desktop seems to be still equally important as an accessing tool.
 
