@@ -19,6 +19,7 @@ Web traffic can be defined as the number of visits to a website, including reque
 Given the time series data that contains 145k Wikipedia pages, we have built and evaluated three differentmodels using Seasonal AutoRegressive Integrated Moving Average (SARIMA), Prophet which wasdeveloped and supported by Facebook, and Long Short-Term Memory (LSTM). We found that **the LSTMmodel had the smallest error from the validation process, setting the last 60 days to the test dataset.Therefore, we strongly recommend that internet servers make use of our LSTM model to predict thetraffic of web pages to avoid any mishaps such as server shutdown or slowdown.** Note that in thisanalysis, we reduced the time series data into averaged daily traffic for the total pages without consideringthe individual ones as it is not computationally infeasible if we take them into account.
 
 ## Data Analysis
+Data is obtained from [Kaggle competition for Web Traffic Time Series](https://www.kaggle.com/competitions/web-traffic-time-series-forecasting/)
 
 - train.csv
 	- 145k rows each of which represents a different Wikipedia page

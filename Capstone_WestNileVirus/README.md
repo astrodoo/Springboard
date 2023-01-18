@@ -26,6 +26,8 @@ Given the weather information, we build a model that predicts the presence of WN
 ## Data Analysis
 
 ### Data
+Data is obtained from [Kaggle competition for West Nile Virus prediction](https://www.kaggle.com/competitions/predict-west-nile-virus/overview)
+
 - Main Data
 	- WNV test results and the number of trapped mosquitos that were measured in Chicago between2007 and 2013
 - Spray Data
