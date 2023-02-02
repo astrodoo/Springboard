@@ -62,7 +62,7 @@ There are 6 species in the trapped mosquitos: Culex Erraticus, Culex Pipens, Cul
 
 ### WNV-Positive Cases by date
 
-Figure 3. shows the total number of WNV-positive cases, which were grouped by year and month. We cansee that WNV is significantly active in 2007 and 20013, while is inactive in 2009 and 2011. The goal ofthis project is to understand how the spread of WNV is affected by the weather condition, so that we canhelp the City of Chicago plan the strategy of spraying effectively. Another interesting trend is that the totalcount of WNV positive case is dominant in August. We will check if high temperature or wet air during thesummer influence the spread of the virus.
+Figure 3. shows the total number of WNV-positive cases, which were grouped by year and month. We cansee that WNV is significantly active in 2007 and 2013, while is inactive in 2009 and 2011. The goal ofthis project is to understand how the spread of WNV is affected by the weather condition, so that we canhelp the City of Chicago plan the strategy of spraying effectively. Another interesting trend is that the totalcount of WNV positive case is dominant in August. We will check if high temperature or wet air during thesummer influence the spread of the virus.
 
 <p align="center" width=100%>
    <img src="output/figures/WNV_positive_month.png" width=70%>
